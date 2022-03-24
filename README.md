@@ -8,7 +8,7 @@ Die H5P-Elemente werden in [Lumi](https://next.lumi.education/) entwickelt und a
 
 Durch das Vorhalten der Quell- und Exportdateien auf GitHub sind bekannte Verfahren zur kollaborativen Weiterentwicklung (Fork/Pull request) möglich.
 
-Darüber hinaus kann das Repo in Hugo-Anwendungen mehrfach [gemountet](https://gohugo.io/hugo-modules/) werden, wie es bspw. [in diesem Lernangebot](https://axel-duerkop.de/course/partizipieren-github/) geschieht.
+Darüber hinaus kann das Repo in Hugo-Anwendungen mehrfach [gemountet](https://gohugo.io/hugo-modules/) werden, wie es bspw. [in diesem Lernmaterial](https://axel-duerkop.de/course/partizipieren-github/) geschieht.
 
 
 
