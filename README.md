@@ -1,6 +1,6 @@
-# H5P-Elemente zum Thema GitHub und GitLab
+# H5P-Elemente 
 
-In diesem Repository sind einige H5P-Elemente gespeichert, mit denen Wissen zu GitHub und GitLab geübt und vertieft werden kann.
+In diesem Repository sind verschiedene [H5P](https://h5p.org/)-Elemente gespeichert.
 
 ## Produktion und alternative Einbindung
 
